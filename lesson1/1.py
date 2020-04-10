@@ -1,0 +1,5 @@
+num1 = int(input('Input num1: '))
+num2 = int(input('Input num2: '))
+string1 = input('Input string1: ')
+string2 = input('Input string2: ')
+print(num1, num2, string1, string2)
